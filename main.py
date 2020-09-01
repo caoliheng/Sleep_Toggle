@@ -38,7 +38,6 @@ import io
 #     print(i)
 #     return set_state(i)
 
-import base64
 
 
 def stop_app():
